@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <Your Name> - Curriculum Vitae
+title: Phillip Osadsky - Curriculum Vitae
 permalink: /cv/
 ---
 ## Curriculum Vitae
