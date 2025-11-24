@@ -4,9 +4,9 @@ title: Heat Exchanger
 description: Class Lab
 image: /assets/images/setup.png
 ---
+I worked on this assignment with my lab partner Gabe Anagnoson (gaa72).
 
-
-As part of a class project, we selected a real-world instance of a device or system that we have learned about in Thermodynamics, explained how it works in detail, and then discussed how its performance would change under change in design or operating conditions. 
+As part of a class project, we selected a real-world instance of a device or system that we have learned about in Thermodynamics (MAE 2210), explained how it works in detail, and then discussed how its performance would change under change in design or operating conditions. 
 
 The supplies for this activity are:
 • one heat exchanger
