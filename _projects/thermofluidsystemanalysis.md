@@ -20,7 +20,7 @@ The supplies for this activity are:
 • four thermometers
 • food dye
 
-The four ports of the heat exchanger are labeled – 1 flows to 2 (and visa versa), and 3 flows to 4 (and visa versa). We used the bucket with the attached immersion heater as the hot water source and placed a pump inside. We used the bucket with the Styrofoam insulation as the cold water source and placde a pump inside. We seet and measured the temperature of these two reservoirs. We started with these reservoirs completely full to maximize our run time. We directed the tubes from the other two heat reservoir ports into the other two buckets. We set up thermometers in each of the reservoirs. We turned on the power to the pumps (shown to the right) using the power strip.
+The four ports of the heat exchanger are labeled – 1 flows to 2 (and visa versa), and 3 flows to 4 (and visa versa). We used the bucket with the attached immersion heater as the hot water source and placed a pump inside. We used the bucket with the Styrofoam insulation as the cold water source and placed a pump inside. We set and measured the temperature of these two reservoirs. We started with these reservoirs completely full to maximize our run time. We directed the tubes from the other two heat reservoir ports into the other two buckets. We set up thermometers in each of the reservoirs. We turned on the power to the pumps (shown to the right) using the power strip.
 ![Photo of solution]({{ "/assets/images/setup.png" | relative_url }}){: .inline-image-l}
 ![Photo of solution]({{ "/assets/images/exchanger.png" | relative_url }}){: .inline-image-l}
 ![Photo of solution]({{ "/assets/images/cross-section-1.png" | relative_url }}){: .inline-image-l}
@@ -37,7 +37,8 @@ Counter-flow: We found the initial temperature of the water in the cold reservoi
 ![Photo of solution]({{ "/assets/images/counterflow.png" | relative_url }}){: .inline-image-l}
 
 Our analysis and work is written out and shown in the picture below:
-![Photo of solution]({{ "/assets/images/work.png" | relative_url }}){: .inline-image-l}
+![Photo of solution]({{ "/assets/images/work3.png" | relative_url }}){: .inline-image-l}
+With the values that we got, we are able to make a couple of conclusions on the heat exchanger that we worked with. First, we can safely conclude that the counterflow setup outperformed the parallel flow. Cold fluid reached a much higher outlet temperature in counterflow (25.7 degrees Celsius vs 20.5 degress Celsius) while the hot fluid cooled more (to 18.8 degrees Celsius vs 23.8 degrees Celsius). The advantage of the counterflow is that the cold fluid can approach the hot inlet temperature more closely. We can also see that the parallel setup lost more net energy to ambient, or the surrounding air, than the counterflow setup, making the counterflow setup more desirable yet again. This also explains why the hot stream leaves colder than the cold stream leaves; heat is lost in the exchanger itself. Both values of entropy calculated show that reversibility is not possible, which is what we would expect with this type of device. 
 
 
 
