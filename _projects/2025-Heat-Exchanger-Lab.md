@@ -33,3 +33,10 @@ We considered changing and monitoring the effect of the operation of the exchang
 Parallel: We found the initial temperature of the water in the cold reservoir to be 6 degrees Celsius and the warm reservoir to be 40 degrees Celsius. The initial temperature of the exchanger was 20.7 degrees Celsius. During the process the exchanger was at 20 degrees. The temperature of the water from the cold reservoir after going through the exchanger was 20.5 degrees and the water from the warm reservoir was 23.8 degrees.
 
 Counter-flow: We found the initial temperature of the water in the cold reservoir to be 5 degrees Celsius and the warm reservoir to be 40 degrees Celsius. The initial temperature of the exchanger was 20.8 degrees Celsius. During the process the exchanger was at 18 degrees. The temperature of the water from the cold reservoir after going through the exchanger was 25.7 degrees and the water from the warm reservoir was 18.8 degrees.
+
+![Photo of solution]({{ "/assets/images/setup.png" | relative_url }}){: .inline-image-l}
+![Photo of solution]({{ "/assets/images/exchanger.png" | relative_url }}){: .inline-image-l}
+![Photo of solution]({{ "/assets/images/Parallel.png" | relative_url }}){: .inline-image-l}
+![Photo of solution]({{ "/assets/images/cross-section-1.png" | relative_url }}){: .inline-image-l}
+![Photo of solution]({{ "/assets/images/cross-section-2.png" | relative_url }}){: .inline-image-l}
+![Photo of solution]({{ "/assets/images/counterflow.png" | relative_url }}){: .inline-image-l}
