@@ -3,12 +3,6 @@ layout: project
 title: Heat Exchanger
 description: Class Lab
 image: /assets/images/setup.png
-image: /assets/images/exchanger.png
-image: /assets/images/Parallel.png
-image: /assets/images/cross-section-1.png
-image: /assets/images/cross-section-2.png
-image: /assets/images/counterflow.png
-
 ---
 
 
