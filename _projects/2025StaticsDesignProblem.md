@@ -2,7 +2,7 @@
 layout: project
 title: 2025 Statics Design Problem
 description: Designing a statics mechanism
-technologies: [Autodesk Fusion]
+technologies: 
 image: /assets/images/radio-machine-cad.jpg
 ---
 ![Photo of solution]({{ "/assets/images/Adobe Scan Oct 10, 2025.png" | relative_url }}){: .inline-image-l}
