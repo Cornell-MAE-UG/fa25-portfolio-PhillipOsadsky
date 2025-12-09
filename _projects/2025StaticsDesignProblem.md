@@ -1,7 +1,7 @@
 ---
 layout: project
 title: 2025 Statics Design Problem
-description: Advanced CAD Project
+description: Designing a statics mechanism
 technologies: [Autodesk Fusion]
 image: /assets/images/radio-machine-cad.jpg
 ---
