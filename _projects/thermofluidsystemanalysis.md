@@ -17,13 +17,13 @@ Heat exchangers are widely used in engineering systems to transfer thermal energ
 ## Setup
 
 The experimental supplies consisted of:\
-• A compact water-to-water heat exchanger\
-• Two submersible water pumps\
-• Four water reservoirs (in our case, buckets)\
-• An immersion heater (hot reservoir)
-• Ice and insulation (cold reservoir)
-• Thermometers and a thermocouple
-• Food dye for flow visualization
+* A compact water-to-water heat exchanger\
+* Two submersible water pumps\
+* Four water reservoirs (in our case, buckets)\
+* An immersion heater (hot reservoir)
+* Ice and insulation (cold reservoir)
+* Thermometers and a thermocouple
+* Food dye for flow visualization
 
 The hot reservoir temperature was controlled using the immersion heater, while the cold reservoir temperature was lowered using ice and insulation. Each reservoir was initially filled completely to allow sufficient runtime for near steady-state operation.
 
@@ -34,13 +34,13 @@ The four ports of the heat exchanger were configured to allow operation in eithe
 
 There were several assumptions that we made in this process. The heat exchanger was modeled as a steady-flow control volume enclosing both fluid streams. 
 Assumptions: 
-• Steady-state operation 
-• Incompressible liquid water 
-• Constant specific heat capacity, c<sub>p</sub>= 4.182 kJ/(kg*K) 
-• Negligible kinetic and potential energy changes 
-• No shaft work interaction 
-• Equal mass flow rates for hot and cold streams 
-• Heat loss to ambient air at the exchanger surface 
+* Steady-state operation 
+* Incompressible liquid water 
+* Constant specific heat capacity, c<sub>p</sub>= 4.182 kJ/(kg*K) 
+* Negligible kinetic and potential energy changes 
+* No shaft work interaction 
+* Equal mass flow rates for hot and cold streams 
+* Heat loss to ambient air at the exchanger surface 
 These assumptions are reasonable given the low flow velocities, small elevation changes, and the experimental setup.
 
 ## Equations to analyze:
