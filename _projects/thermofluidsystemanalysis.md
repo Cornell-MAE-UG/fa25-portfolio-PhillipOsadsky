@@ -72,6 +72,7 @@ We considered changing and monitoring the effect of the operation of the exchang
 ![Photo of solution]({{ "/assets/images/Parallel.png" | relative_url }}){: .inline-image-r}
 
 ![Photo of solution]({{ "/assets/images/counterflow.png" | relative_url }}){: .inline-image-r}
+
 ---
 
 ## Analysis and Calculations
