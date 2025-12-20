@@ -2,7 +2,7 @@
 layout: project
 title: Heat Exchanger Analysis for MAE 2210
 description: Class Lab
-image:
+image: /assets/images/counterflow.png
 ---
 I worked on this assignment with my lab partner Gabe Anagnoson (gaa72).
 
