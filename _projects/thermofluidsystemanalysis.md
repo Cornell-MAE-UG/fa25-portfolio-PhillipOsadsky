@@ -41,7 +41,7 @@ Assumptions:
 These assumptions are reasonable given the low flow velocities, small elevation changes, and the experimental setup.
 
 Equations to analyze:
-Mass Balance Since there is no mixing and steady operation: m˙h,i​=m˙h,e​=m˙c,i​=m˙c,e​=m˙ Energy Balance With no work interaction and negligible KE/PE changes: Q˙​lost​=m˙cp​((Tc,e​−Tc,i​)+(Th,e​−Th,i​))
+**Mass Balance**, since there is no mixing and steady operation: m˙h,i​=m˙h,e​=m˙c,i​=m˙c,e​=m˙ Energy Balance With no work interaction and negligible KE/PE changes: Q˙​lost​=m˙cp​((Tc,e​−Tc,i​)+(Th,e​−Th,i​))
 Entropy Balance S˙gen​=m˙(cp​ln(Tc,i​Tc,e​​)+cp​ln(Th,i​Th,e​​))−Tamb​Q˙​lost​​ ​ ​ 
 
 ![Photo of solution]({{ "/assets/images/cross-section-1.png" | relative_url }}){: .inline-image-r}
