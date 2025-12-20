@@ -1,12 +1,9 @@
 ---
 layout: project
-title: Heat Exchanger
+title: Heat Exchanger Analysis for MAE 2210
 description: Class Lab
-image: /assets/images/setup.png
+image:
 ---
-
-# Heat Exchanger Analysis for MAE 2210
-
 I worked on this assignment with my lab partner Gabe Anagnoson (gaa72).
 
 ## Overview
