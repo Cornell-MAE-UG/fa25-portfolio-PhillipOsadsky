@@ -15,6 +15,10 @@ Heat exchangers are widely used in engineering systems to transfer thermal energ
  In this project, we analyzed a specific heat exchanger (shown in images below) operated using two electric pumps and external thermal reservoirs. The objective was to experimentally compare parallel flow and counterflow configurations and evaluate their performance using mass, energy, and entropy balances.
 
 ## Setup
+![Photo of solution]({{ "/assets/images/exchanger.png" | relative_url }}){: .inline-image-r}
+![Photo of solution]({{ "/assets/images/setup.png" | relative_url }}){: .inline-image-r}
+![Photo of solution]({{ "/assets/images/cross-section-1.png" | relative_url }}){: .inline-image-r}
+![Photo of solution]({{ "/assets/images/cross-section-2.png" | relative_url }}){: .inline-image-r}
 
 The experimental supplies consisted of:
 * A compact water-to-water heat exchanger
@@ -28,9 +32,6 @@ The experimental supplies consisted of:
 The hot reservoir temperature was controlled using the immersion heater, while the cold reservoir temperature was lowered using ice and insulation. Each reservoir was initially filled completely to allow sufficient runtime for near steady-state operation.
 
 The four ports of the heat exchanger were configured to allow operation in either parallel flow or counterflow, with no mixing between the hot and cold streams. Temperatures were measured at all inlets and outlets once steady operation was reached.
-
-![Photo of solution]({{ "/assets/images/setup.png" | relative_url }}){: .inline-image-r}
-![Photo of solution]({{ "/assets/images/exchanger.png" | relative_url }}){: .inline-image-r}
 
 There were several assumptions that we made in this process. The heat exchanger was modeled as a steady-flow control volume enclosing both fluid streams.<br/>
 **Assumptions**: 
@@ -51,8 +52,7 @@ These assumptions are reasonable given the low flow velocities, small elevation 
 * Entropy Balance
   - S˙<sub>gen</sub>​=m˙(c<sub>p</sub>​ln(T<sub>c,e</sub>/​T<sub>c,i</sub>​​)+c<sub>p</sub>​ln(T<sub>h,e</sub>/​T<sub>h,i</sub>​​))−​Q˙<sub>​lost</sub>/​T<sub>amb</sub>​ ​ ​ 
 
-![Photo of solution]({{ "/assets/images/cross-section-1.png" | relative_url }}){: .inline-image-r}
-![Photo of solution]({{ "/assets/images/cross-section-2.png" | relative_url }}){: .inline-image-r}
+
 
 The calculations corresponding to these equations are shown in the image below.
 
