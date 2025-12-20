@@ -26,9 +26,9 @@ The hot reservoir temperature was controlled using the immersion heater, while t
 
 The four ports of the heat exchanger were configured to allow operation in either parallel flow or counterflow, with no mixing between the hot and cold streams. Temperatures were measured at all inlets and outlets once steady operation was reached.
 
-![Photo of solution]({{ "/assets/images/setup.png" | relative_url }}){: .inline-image-l}
+![Photo of solution]({{ "/assets/images/setup.png" | relative_url }}){: .inline-image-r}
 ![Photo of solution]({{ "/assets/images/exchanger.png" | relative_url }}){: .inline-image-r}
-![Photo of solution]({{ "/assets/images/cross-section-1.png" | relative_url }}){: .inline-image-l}
+![Photo of solution]({{ "/assets/images/cross-section-1.png" | relative_url }}){: .inline-image-r}
 ![Photo of solution]({{ "/assets/images/cross-section-2.png" | relative_url }}){: .inline-image-r}
 
 There were several assumptions that we made in this process. The heat exchanger was modeled as a steady-flow control volume enclosing both fluid streams. 
@@ -54,7 +54,7 @@ Parallel: We found the initial temperature of the water in the cold reservoir to
 
 Counter-flow: We found the initial temperature of the water in the cold reservoir to be 5 degrees Celsius and the warm reservoir to be 40 degrees Celsius. The initial temperature of the exchanger was 20.8 degrees Celsius. During the process, the exchanger was at 18 degrees. The temperature of the water from the cold reservoir after going through the exchanger was 25.7 degrees and the water from the warm reservoir was 18.8 degrees.
 
-![Photo of solution]({{ "/assets/images/Parallel.png" | relative_url }}){: .inline-image-l}
+![Photo of solution]({{ "/assets/images/Parallel.png" | relative_url }}){: .inline-image-r}
 
 ![Photo of solution]({{ "/assets/images/counterflow.png" | relative_url }}){: .inline-image-r}
 
