@@ -41,8 +41,8 @@ Assumptions:
 These assumptions are reasonable given the low flow velocities, small elevation changes, and the experimental setup.
 
 Equations to analyze:
-**Mass Balance**, since there is no mixing and steady operation: m˙h,i​=m˙h,e​=m˙c,i​=m˙c,e​=m˙ Energy Balance With no work interaction and negligible KE/PE changes: Q˙​lost​=m˙cp​((Tc,e​−Tc,i​)+(Th,e​−Th,i​))
-Entropy Balance S˙gen​=m˙(cp​ln(Tc,i​Tc,e​​)+cp​ln(Th,i​Th,e​​))−Tamb​Q˙​lost​​ ​ ​ 
+**Mass Balance, since there is no mixing and steady operation**: m˙h,i​=m˙h,e​=m˙c,i​=m˙c,e​=m˙ **Energy Balance With no work interaction and negligible KE/PE changes**: Q˙​lost​=m˙cp​((Tc,e​−Tc,i​)+(Th,e​−Th,i​))
+**Entropy Balance**: S˙gen​=m˙(cp​ln(Tc,i​Tc,e​​)+cp​ln(Th,i​Th,e​​))−Tamb​Q˙​lost​​ ​ ​ 
 
 ![Photo of solution]({{ "/assets/images/cross-section-1.png" | relative_url }}){: .inline-image-r}
 ![Photo of solution]({{ "/assets/images/cross-section-2.png" | relative_url }}){: .inline-image-r}
@@ -51,9 +51,9 @@ The calculations corresponding to these equations are shown in the image below.
 
 We considered changing and monitoring the effect of the operation of the exchanger in parallel flow vs counter flow.
 
-Parallel: We found the initial temperature of the water in the cold reservoir to be 6 degrees Celsius and the warm reservoir to be 40 degrees Celsius. The initial temperature of the exchanger was 20.7 degrees Celsius. During the process, the exchanger was at 20 degrees. The temperature of the water from the cold reservoir after going through the exchanger was 20.5 degrees and the water from the warm reservoir was 23.8 degrees.
+**Parallel**: We found the initial temperature of the water in the cold reservoir to be 6 degrees Celsius and the warm reservoir to be 40 degrees Celsius. The initial temperature of the exchanger was 20.7 degrees Celsius. During the process, the exchanger was at 20 degrees. The temperature of the water from the cold reservoir after going through the exchanger was 20.5 degrees and the water from the warm reservoir was 23.8 degrees.
 
-Counter-flow: We found the initial temperature of the water in the cold reservoir to be 5 degrees Celsius and the warm reservoir to be 40 degrees Celsius. The initial temperature of the exchanger was 20.8 degrees Celsius. During the process, the exchanger was at 18 degrees. The temperature of the water from the cold reservoir after going through the exchanger was 25.7 degrees and the water from the warm reservoir was 18.8 degrees.
+**Counter-flow**: We found the initial temperature of the water in the cold reservoir to be 5 degrees Celsius and the warm reservoir to be 40 degrees Celsius. The initial temperature of the exchanger was 20.8 degrees Celsius. During the process, the exchanger was at 18 degrees. The temperature of the water from the cold reservoir after going through the exchanger was 25.7 degrees and the water from the warm reservoir was 18.8 degrees.
 
 ![Photo of solution]({{ "/assets/images/Parallel.png" | relative_url }}){: .inline-image-r}
 
