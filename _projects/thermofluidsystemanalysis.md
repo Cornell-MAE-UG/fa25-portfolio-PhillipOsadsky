@@ -19,16 +19,16 @@ Heat exchangers are widely used in engineering systems to transfer thermal energ
 ## Setup
 <img src="{{ '/assets/images/exchanger.png' | relative_url }}"
      alt="Photo of solution"
-     style="width:250px; float:right; margin-left:1rem;">
+     style="width:300px; float:right; margin-left:1rem;">
 <img src="{{ '/assets/images/setup.png' | relative_url }}"
      alt="Photo of solution"
-     style="width:250px; float:right; margin-left:1rem;">
+     style="width:300px; float:right; margin-left:1rem;">
 <img src="{{ '/assets/images/cross-section-1.png' | relative_url }}"
      alt="Photo of solution"
-     style="width:250px; float:right; margin-left:1rem;">
+     style="width:300px; float:right; margin-left:1rem;">
 <img src="{{ '/assets/images/cross-section-2.png' | relative_url }}"
      alt="Photo of solution"
-     style="width:250px; float:right; margin-left:1rem;">
+     style="width:300px; float:right; margin-left:1rem;">
 
 The experimental supplies consisted of:
 * A compact water-to-water heat exchanger
@@ -90,7 +90,7 @@ We considered changing and monitoring the effect of the operation of the exchang
 ## Analysis and Calculations
 <img src="{{ '/assets/images/work3.png' | relative_url }}"
      alt="Photo of solution"
-     style="width:300px; float:right; margin-left:1rem;">
+     style="width:350px; float:right; margin-left:1rem;">
 Our analysis and work is written out and shown in the picture to the right:
 With the values that we got, we are able to make a couple of conclusions on the heat exchanger that we worked with. First, we can safely conclude that the counterflow setup outperformed the parallel flow. Cold fluid reached a much higher outlet temperature in counterflow (25.7 degrees Celsius vs 20.5 degrees Celsius) while the hot fluid cooled more (to 18.8 degrees Celsius vs 23.8 degrees Celsius). This behavior aligns with the heat exchanger theory that counterflow allows a larger effective temperature difference along the exchanger length. The advantage of the counterflow is that the cold fluid can approach the hot inlet temperature more closely. We can also see that the parallel setup lost more net energy to the ambient, or the surrounding air, than the counterflow setup, making the counterflow setup more desirable yet again. This also explains why the hot stream leaves colder than the cold stream leaves; heat is lost in the exchanger itself. If heat were not lost, our counterflow setup would have violated the second law of thermodynamics, but since that cannot happen, we can conclude that the heat exchanger does in fact have heat loss and that this is a non adiabatic system. Both values of entropy calculated show that reversibility is not possible, which is what we would expect with this type of device. 
 
