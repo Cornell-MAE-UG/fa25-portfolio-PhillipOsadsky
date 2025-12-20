@@ -40,6 +40,9 @@ The four ports of the heat exchanger allowed configuration in either **parallel 
 ---
 
 ## Modeling Assumptions
+<img src="{{ '/assets/images/cross-section-2.png' | relative_url }}"
+     alt="Photo of solution"
+     style="width:300px; float:right; margin-left:1rem;">
 
 The heat exchanger was modeled as a **steady-flow control volume** enclosing both fluid streams.
 
