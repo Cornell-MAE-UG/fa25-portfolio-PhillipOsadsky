@@ -75,7 +75,7 @@ We considered changing and monitoring the effect of the operation of the exchang
 ## Data
 <img src="{{ '/assets/images/Parallel.png' | relative_url }}"
      alt="Photo of solution"
-     style="width:250px; float:right; margin-left:1rem;">
+     style="width:300px; float:right; margin-left:1rem;">
 
 **Parallel**: 
 * We found the initial temperature of the water in the cold reservoir to be **6 °C** and the warm reservoir to be **40 °C**. 
@@ -85,7 +85,7 @@ We considered changing and monitoring the effect of the operation of the exchang
  
 <img src="{{ '/assets/images/counterflow.png' | relative_url }}"
      alt="Photo of solution"
-     style="width:250px; float:right; margin-left:1rem;">
+     style="width:300px; float:right; margin-left:1rem;">
 
 **Counter-flow**: 
 * We found the initial temperature of the water in the cold reservoir to be **5 °C** and the warm reservoir to be **40 °C**. 
