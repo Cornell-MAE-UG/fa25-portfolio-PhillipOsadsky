@@ -19,16 +19,16 @@ Heat exchangers are widely used in engineering systems to transfer thermal energ
 ## Setup
 <img src="{{ '/assets/images/exchanger.png' | relative_url }}"
      alt="Photo of solution"
-     style="width:300px; float:right; margin-left:1rem;">
+     style="width:250px; float:right; margin-left:1rem;">
 <img src="{{ '/assets/images/setup.png' | relative_url }}"
      alt="Photo of solution"
-     style="width:300px; float:right; margin-left:1rem;">
+     style="width:250px; float:right; margin-left:1rem;">
 <img src="{{ '/assets/images/cross-section-1.png' | relative_url }}"
      alt="Photo of solution"
-     style="width:300px; float:right; margin-left:1rem;">
+     style="width:250px; float:right; margin-left:1rem;">
 <img src="{{ '/assets/images/cross-section-2.png' | relative_url }}"
      alt="Photo of solution"
-     style="width:300px; float:right; margin-left:1rem;">
+     style="width:250px; float:right; margin-left:1rem;">
 
 The experimental supplies consisted of:
 * A compact water-to-water heat exchanger
