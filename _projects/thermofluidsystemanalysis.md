@@ -32,8 +32,8 @@ The four ports of the heat exchanger were configured to allow operation in eithe
 ![Photo of solution]({{ "/assets/images/setup.png" | relative_url }}){: .inline-image-r}
 ![Photo of solution]({{ "/assets/images/exchanger.png" | relative_url }}){: .inline-image-r}
 
-There were several assumptions that we made in this process. The heat exchanger was modeled as a steady-flow control volume enclosing both fluid streams. 
-Assumptions: 
+There were several assumptions that we made in this process. The heat exchanger was modeled as a steady-flow control volume enclosing both fluid streams.<br/>
+**Assumptions**: 
 * Steady-state operation 
 * Incompressible liquid water 
 * Constant specific heat capacity, c<sub>p</sub>= 4.182 kJ/(kg*K) 
