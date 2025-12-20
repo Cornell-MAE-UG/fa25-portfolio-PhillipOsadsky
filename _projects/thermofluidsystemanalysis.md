@@ -16,10 +16,10 @@ Heat exchangers are widely used in engineering systems to transfer thermal energ
 
 ## Setup
 
-The experimental supplies consisted of:\
-* A compact water-to-water heat exchanger\
-* Two submersible water pumps\
-* Four water reservoirs (in our case, buckets)\
+The experimental supplies consisted of:
+* A compact water-to-water heat exchanger
+* Two submersible water pumps
+* Four water reservoirs (in our case, buckets)
 * An immersion heater (hot reservoir)
 * Ice and insulation (cold reservoir)
 * Thermometers and a thermocouple
