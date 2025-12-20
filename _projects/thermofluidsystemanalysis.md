@@ -44,12 +44,12 @@ Assumptions:
 These assumptions are reasonable given the low flow velocities, small elevation changes, and the experimental setup.
 
 ## Equations to analyze:
-* **Mass Balance, since there is no mixing and steady operation**
-    - m˙<sub>h,i​</sub>=m˙<sub>h,e</sub>​=m˙<sub>c,i</sub>​=m˙<sub>c,e</sub>​=m˙ 
-* **Energy Balance With no work interaction and negligible KE/PE changes** 
-    - Q˙<sub>​lost</sub>​=m˙c<sub>p</sub>​((T<sub>c,e</sub>​−T<sub>c,i</sub>​)+(T<sub>h,e</sub>​−T<sub>h,i</sub>​))
-* **Entropy Balance** 
-    - S˙<sub>gen</sub>​=m˙(c<sub>p</sub>​ln(T<sub>c,e</sub>/​T<sub>c,i</sub>​​)+c<sub>p</sub>​ln(T<sub>h,e</sub>/​T<sub>h,i</sub>​​))−​Q˙<sub>​lost</sub>/​T<sub>amb</sub>​ ​ ​ 
+* Mass Balance, since there is no mixing and steady operation
+  - m˙<sub>h,i​</sub>=m˙<sub>h,e</sub>​=m˙<sub>c,i</sub>​=m˙<sub>c,e</sub>​=m˙ 
+* Energy Balance With no work interaction and negligible KE/PE changes
+  - Q˙<sub>​lost</sub>​=m˙c<sub>p</sub>​((T<sub>c,e</sub>​−T<sub>c,i</sub>​)+(T<sub>h,e</sub>​−T<sub>h,i</sub>​))
+* Entropy Balance
+  - S˙<sub>gen</sub>​=m˙(c<sub>p</sub>​ln(T<sub>c,e</sub>/​T<sub>c,i</sub>​​)+c<sub>p</sub>​ln(T<sub>h,e</sub>/​T<sub>h,i</sub>​​))−​Q˙<sub>​lost</sub>/​T<sub>amb</sub>​ ​ ​ 
 
 ![Photo of solution]({{ "/assets/images/cross-section-1.png" | relative_url }}){: .inline-image-r}
 ![Photo of solution]({{ "/assets/images/cross-section-2.png" | relative_url }}){: .inline-image-r}
