@@ -28,8 +28,6 @@ The four ports of the heat exchanger were configured to allow operation in eithe
 
 ![Photo of solution]({{ "/assets/images/setup.png" | relative_url }}){: .inline-image-r}
 ![Photo of solution]({{ "/assets/images/exchanger.png" | relative_url }}){: .inline-image-r}
-![Photo of solution]({{ "/assets/images/cross-section-1.png" | relative_url }}){: .inline-image-r}
-![Photo of solution]({{ "/assets/images/cross-section-2.png" | relative_url }}){: .inline-image-r}
 
 There were several assumptions that we made in this process. The heat exchanger was modeled as a steady-flow control volume enclosing both fluid streams. 
 Assumptions: 
@@ -45,6 +43,9 @@ These assumptions are reasonable given the low flow velocities, small elevation 
 Equations to analyze:
 Mass Balance Since there is no mixing and steady operation: m˙h,i​=m˙h,e​=m˙c,i​=m˙c,e​=m˙ Energy Balance With no work interaction and negligible KE/PE changes: Q˙​lost​=m˙cp​((Tc,e​−Tc,i​)+(Th,e​−Th,i​))
 Entropy Balance S˙gen​=m˙(cp​ln(Tc,i​Tc,e​​)+cp​ln(Th,i​Th,e​​))−Tamb​Q˙​lost​​ ​ ​ 
+
+![Photo of solution]({{ "/assets/images/cross-section-1.png" | relative_url }}){: .inline-image-r}
+![Photo of solution]({{ "/assets/images/cross-section-2.png" | relative_url }}){: .inline-image-r}
 
 The calculations corresponding to these equations are shown in the image below.
 
