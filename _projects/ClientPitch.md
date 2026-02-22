@@ -2,13 +2,13 @@
 layout: project
 title: Client Pitch
 description: Just a spaceship that I designed
-technologies: [SolidWorks, Machining]
+technologies:
 image: /assets/images/Lanternfly.png
 ---
 
 
 ## **The Lanternfly Terminator**
-(Team Bug-anators)
+Team Bug-anators<br/>
 **Client(s):** Cornell CALS Extension / E&J Gallo Winery / National Grape
 
 ---
@@ -18,10 +18,10 @@ image: /assets/images/Lanternfly.png
 **[Impact]** The NY grape industry is valued at $16.81 billion annually, but the increase in SLF infestations causes a significant decrease in this number. By keeping SLFs off grapevines pre-harvest, we reduce infestations. Once SLFs land on vines, they are difficult to control across an area and can rapidly degrade the quality of the harvest. Focusing on this issue lessens SLFs' impact on product safety, taste, and the economic value of the harvested grapes. 
 
 **[Proposed Direction: SLF Automated Scent Trap]** Our concept is a scented (Tree of Heaven, etc.) SLF trap that attracts and eliminates them via an electric grid, adhesive, or mechanical suction trap. The device will be weather-proof and self-sufficient (power supply and SLF removal). The SLF would be collected in a section that the users can empty and switch out.<br/>
-How it will be used:
+<ins>How it will be used:</ins>
 * Set up a trap at hotspot; apply the mechanism
-* Scent lures SLF away from the grapevines
-Why is it better than the status quo:
+* Scent lures SLF away from the grapevines<br/>
+<ins>Why is it better than the status quo:</ins>
 * Less Costly than Pesticides
 * Avoids repeated harvester tool change
 
@@ -36,12 +36,12 @@ Is this design worth pursuing due to the complex nature of what attracts SLFs?
 Could this design work to eliminate or minimize the amount of SLF on grape vines?
 What scents could attract SLF better than grape vines and have minimal harm on pollinators? 
 How does one identify live hotspot locations for SLFs?
-Can we hang this device on an existing Tree of Heaven/grape vine hotspot for SLF so we can eliminate the scent-releasing mechanism and focus on the trap/elimination method?
+Can we hang this device on an existing Tree of Heaven/grape vine hotspot for SLF so we can eliminate the scent-releasing mechanism and focus on the trap/elimination method?<br/>
 **[References]**
 
 
 
-Inspiration for scented SLF trap
+Inspiration for scented SLF trap<br/>
 <img src="{{ '/assets/images/FlyTrap.png' | relative_url }}"
      alt="Photo of solution"
      style="width:350px; float:right; margin-left:1rem;">
