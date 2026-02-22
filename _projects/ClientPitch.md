@@ -21,6 +21,7 @@ Team Bug-anators<br/>
 <ins>How it will be used:</ins>
 * Set up a trap at hotspot; apply the mechanism
 * Scent lures SLF away from the grapevines<br/>
+
 <ins>Why is it better than the status quo:</ins>
 * Less Costly than Pesticides
 * Avoids repeated harvester tool change
@@ -44,7 +45,7 @@ Can we hang this device on an existing Tree of Heaven/grape vine hotspot for SLF
 Inspiration for scented SLF trap<br/>
 <img src="{{ '/assets/images/FlyTrap.png' | relative_url }}"
      alt="Photo of solution"
-     style="width:350px; float:right; margin-left:1rem;">
+     style="width:350px; float:left; margin-left:1rem;">
 
 
 
