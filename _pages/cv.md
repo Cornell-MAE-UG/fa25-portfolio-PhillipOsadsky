@@ -85,7 +85,7 @@ I am excited to work in a fast paced and hands on environment, along with being 
 ---
 #### CAMPUS INVOLVEMENT
 - **Cornell Astronomical Society**  
-   August 202 - Present
+   August 2024 - Present
   - Learned how to set up and operate 10+ different telescopes ranging from small laser-based to the observatory.
   - Engaged in facilitating and setting up for weekly public observatory open hours by putting together telescopes.
   - Assisted in locating and locking specific celestial bodies on different kinds of telescopes for public viewing.
