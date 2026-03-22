@@ -64,7 +64,7 @@ I am excited to work in a fast paced and hands on environment, along with being 
 - **Leaders 2 Leaders Program**  
    September 2025 - Present 
   - Selected by Cornell coaching staff for Team Captain Development Program out of 30+ student athletes and completed leadership and organizational workshops led by Cornell sports psychologists.
-  - **SSG Saar Max Ritter Swim Team**  
+- **SSG Saar Max Ritter Swim Team**  
   August 2023 - May, 2024
   - Achieved professional working proficiency in German to lead a multinational team and coordinate with staff.
   - Mentored younger swimmers by providing technical feedback during training and competitions.
@@ -77,7 +77,7 @@ I am excited to work in a fast paced and hands on environment, along with being 
   - Devote 20+ hours/week to training and competitions while balancing full-time academics & club commitments.
   - Selected to compete at the Ivy League Championships at Princeton University.
   - Top 10 all time performer at Cornell in breaststroke events: 200y breaststroke, 1:56.91 seconds.
-  - **Slovakia National Swim Team**  
+- **Slovakia National Swim Team**  
   September 2023 - Present
   - National champion of Slovakia in 2 swimming events.
   - Represented Slovakia at the World University Games in Germany 2025 along with World Junior Championships in Israel 2023, contributed to placing top 15 as a country.	
