@@ -102,9 +102,9 @@ table.clean-table th {
 **Team Bug-anators**  
 **Client(s):** Cornell CALS Extension / E&J Gallo Winery / National Grape
 
-*Note: While our initial client pitch focused on a scented SLF trap, our design evolved into a retractable barrier system after identifying that physically preventing access to grapevines offered a more reliable and scalable solution.* 
+*Note: While our initial client pitch focused on a scented spotted lanternfly (SLF) trap, our design evolved into a retractable barrier system after finding that physically preventing access to grapevines offered a solution that is more appropiate to the scope of this class.* 
 
-This project explores a **retractable protective enclosure for grapevines** designed to reduce spotted lanternfly (SLF) access while still allowing growers to quickly open the system for harvesting and maintenance.
+This project explores a **retractable protective enclosure for grapevines** designed to reduce spotted lanternfly access while still allowing growers to quickly open the system for harvesting and maintenance with any types of machines.
 
 ---
 
@@ -143,9 +143,9 @@ This project explores a **retractable protective enclosure for grapevines** desi
 
 ### Purpose of the Prototype
 
-The purpose of this functional prototype was to test whether a **retractable enclosure system** could realistically protect grapevines from spotted lanternflies while remaining practical for vineyard use. The prototype focuses on the key mechanical idea: a rigid frame and expandable scissor-link structure that can open and close to cover a target area.
+The purpose of this functional prototype was to test whether a **retractable enclosure system** could realistically protect grapevines from spotted lanternflies while remaining practical for vineyard use. The prototype focuses on the key mechanical idea: a rigid frame and expandable scissor link structure that can open and close to cover an area.
 
-In the full concept, a mesh barrier would move with the mechanism to block SLFs while still allowing light and airflow. For this prototype, the team primarily tested the **mechanical behavior of the structure itself**, especially the parts most likely to fail or jam during operation.
+In the full concept, a mesh barrier would move with the mechanism to block SLFs while still allowing light and air to pass through. For this prototype, we primarily tested the **mechanical behavior of the structure itself**, especially the parts most likely to fail during the operation.
 
 <div class="section-card">
   <strong>Prototype concept:</strong> when expanded, the structure encloses the grapevine area; when contracted, it opens to allow harvesting or maintenance access.
@@ -167,15 +167,15 @@ The prototype used four main subsystems:
    Aluminum framing members create the structure and maintain alignment.
 
 2. **Scissor linkage**  
-   A criss-cross linkage allows the top of the enclosure to expand and contract.
+   A scissor linkage system allows the top of the enclosure to expand and contract.
 
 3. **Wheel–rail system**  
-   A wheel carriage moves along the lower rail to guide the retracting frame.
+   A wheel carriage moves along the lower rail to support the frame.
 
 4. **Fastened joints**  
    L-brackets, bolts, and nuts hold the frame together and transfer load during motion.
 
-Because several ordered parts did not arrive in time, some components were fabricated in-house. The wheel assembly was 3D printed, and the scissor linkage was fabricated from wood for this iteration.
+Because several ordered parts did not arrive in time, some components were fabricated in the lab. The wheel assembly was 3D printed, and the scissor linkage was machined from wood for this iteration.
 
 ---
 
@@ -234,7 +234,7 @@ Because several ordered parts did not arrive in time, some components were fabri
 
 ### Assembly Summary
 
-The frame was built from cut aluminum extrusions connected with L-brackets. A custom wheel assembly was designed and 3D printed to fit the lower rail. The scissor-link mechanism was fabricated from wood strips, drilled at evenly spaced pivot locations, and mounted to the upper frame rail. One side of the linkage was coupled to the wheeled frame so that retraction and extension produced synchronized motion.
+The frame was built from cut aluminum extrusions from McMaster Carr connected with L-brackets. A custom wheel assembly was designed and 3D printed to fit the lower rail. The scissor linkage mechanism was machined from wood strips, drilled at evenly spaced pivot locations, and mounted to the upper frame rail. One side of the linkage was coupled to the wheeled frame so that retraction and extension was able to be done in a synchronized motion.
 
 <img src="{{ '/assets/images/FunctionalPrototypeAssembly.png' | relative_url }}"
      alt="Assembly photos showing construction of the functional prototype"
@@ -245,9 +245,9 @@ The frame was built from cut aluminum extrusions connected with L-brackets. A cu
 ## <span id="tests">Design Tests</span>
 
 The most important mechanical risks were:
-- whether the scissor linkage could hold shape under load,
-- whether the wheel carriage could move smoothly without jamming,
-- and whether the fasteners would stay secure over repeated cycles.
+- Whether the scissor linkage could hold shape under load.
+- Whether the wheel carriage could move smoothly without jamming.
+- Whether the fasteners would stay secure over repeated cycles.
 
 Each test below states what was tested, how it was tested, the measured result, and what should change in the next iteration.
 
@@ -260,7 +260,7 @@ Each test below states what was tested, how it was tested, the measured result, 
 </div>
 
 **Method:**  
-Equal masses were added to both sides of the scissor linkage in **88 g increments** while the mechanism was extended. The team recorded the angular tilt and noted any visible stress or sound.
+Equal masses were added to both sides of the scissor linkage in **88g increments** while the mechanism was extended. We recorded the angular tilt and noted any visible stress or creaking sounds.
 
 <table class="clean-table">
   <thead>
@@ -290,10 +290,10 @@ Equal masses were added to both sides of the scissor linkage in **88 g increment
 </table>
 
 **Outcome:**  
-The linkage stayed functional, but noticeable tilt began at a relatively low load. Creaking at 264 g showed the current wood members were approaching their structural limit.
+The linkage stayed functional, but we began noticing some tilt began at a relatively low load. Creaking at 264 g showed the current wood members were approaching their structural limit.
 
 **Next iteration:**  
-Replace the wooden scissor members with a stiffer material such as aluminum, and improve out-of-plane support so the movable frame stays upright during extension.
+Replace the wooden scissor members with a stiffer material once it comes with the Amazon order, and improve the support so the movable frame stays upright during extension.
 
 <img src="{{ '/assets/images/FunctionalPrototypeLoadTest.png' | relative_url }}"
      alt="Photos of the structural load test on the scissor linkage"
@@ -332,10 +332,10 @@ The system was moved back and forth along the full rail length for 10 iterations
 </table>
 
 **Outcome:**  
-The system moved smoothly during the early cycles and generally remained usable. Later jams suggested some alignment sensitivity, although manual operation likely contributed to inconsistency.
+The system moved smoothly during the early cycles and generally remained usable. Later jams suggested some alignment sensitivity, although our human error in manual operation likely contributed to inconsistency.
 
 **Next iteration:**  
-Add alignment guides or constraints and transition to motor-driven motion for more consistent force application.
+Add alignment guides or constraints and transition for our motor driven motion for more consistent force application when our motor arrives from Amazon.
 
 ---
 
@@ -346,7 +346,7 @@ Add alignment guides or constraints and transition to motor-driven motion for mo
 </div>
 
 **Method:**  
-All fasteners were tightened before testing. After repeated expansion and contraction cycles, the number of loosened bolts was recorded.
+All fasteners were tightened before testing. After repeated expansion and contraction cycles, we recorded the number of loosened bolts.
 
 <table class="clean-table">
   <thead>
@@ -370,7 +370,7 @@ All fasteners were tightened before testing. After repeated expansion and contra
 </table>
 
 **Outcome:**  
-The joints stayed secure at first, but more fasteners loosened as cycling increased, showing that repeated motion and vibration reduce long-term reliability.
+The joints stayed secure at first, but more fasteners loosened as cycling increased, showing that repeated motion and vibration reduce reliability.
 
 **Next iteration:**  
 Use lock nuts, washers, or thread-locking adhesive, and improve joint design to reduce vibration at connection points.
@@ -418,18 +418,18 @@ To judge whether the final prototype is successful, the design needs measurable 
 
 The clearest demo criterion is **smooth motion of the scissor linkage and wheel–rail system**.
 
-For the exhibit, the prototype can be shown performing repeated full **expansion and contraction cycles**. The audience will be able to see the system move between an enclosed position and an open-access position, while the cycle time is measured to give a direct quantitative result.
+For the exhibit, the prototype can be shown performing repeated full **expansion and contraction cycles**. The audience will be able to see the system move between an enclosed position and an open access position, while the cycle time is measured to give quantitative results.
 
 ---
 
 ## Reflection
 
-This prototype successfully identified the key design risks in the current concept. The main positive result was that the enclosure mechanism could expand and retract in a coordinated way. The main issues were structural tilt in the scissor linkage, jamming sensitivity in the rail system, and gradual fastener loosening under repeated use.
+This prototype successfully identified the key design risks in the current concept. The main positive result was that the enclosure mechanism could expand and retract in a reliable way. The main issues were structural tilt in the scissor linkage, jamming sensitivity in the rail system, and gradual fastener loosening under repeated use.
 
 These results give a clear direction for the next prototype:
-- stronger linkage material,
-- better alignment control,
-- and more secure fastening methods.
+- Stronger linkage material.
+- Better alignment control.
+- More secure fastening methods.
 
 ---
 
