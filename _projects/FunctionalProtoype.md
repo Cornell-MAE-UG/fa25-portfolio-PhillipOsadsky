@@ -4,7 +4,7 @@ title: Functional Prototype
 description: Retractable protective enclosure prototype for spotted lanternfly prevention in vineyards
 technologies: Jekyll, Fusion 360, 3D Printer
 image: /assets/images/FunctionalPrototypeHero.png
-published: false
+show_in_projects: false
 ---
 
 <style>
@@ -108,20 +108,6 @@ table.clean-table th {
 This project explores a **retractable protective enclosure for grapevines** designed to reduce spotted lanternfly access while still allowing growers to quickly open the system for harvesting and maintenance with any types of machines.
 
 ---
-
-## Milestones
-
-<div class="milestone-nav">
-  <a class="milestone-card" href="{{ '/projects/ClientPitch/' | relative_url }}">
-    <h3>1. Client Pitch</h3>
-    <p>Problem definition, client need, proposed direction, and early concept for reducing SLF damage in vineyards.</p>
-  </a>
-
-  <a class="milestone-card" href="#functional-prototype">
-    <h3>2. Functional Prototype</h3>
-    <p>Prototype purpose, mechanical build, design tests, outcomes, and next-iteration improvements.</p>
-  </a>
-</div>
 
 <div class="quick-facts">
   <div class="fact-box">
