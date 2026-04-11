@@ -4,6 +4,7 @@ title: Client Pitch
 description:
 technologies:
 image: /assets/images/Lanternfly.png
+published: false
 ---
 
 

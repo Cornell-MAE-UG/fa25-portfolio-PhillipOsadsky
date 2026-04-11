@@ -4,6 +4,7 @@ title: Functional Prototype
 description: Retractable protective enclosure prototype for spotted lanternfly prevention in vineyards
 technologies: Jekyll, Fusion 360, 3D Printer
 image: /assets/images/FunctionalPrototypeHero.png
+published: false
 ---
 
 <style>
