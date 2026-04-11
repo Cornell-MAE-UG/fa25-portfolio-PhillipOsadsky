@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Client Pitch
-description: Just a spaceship that I designed
+description:
 technologies:
 image: /assets/images/Lanternfly.png
 ---

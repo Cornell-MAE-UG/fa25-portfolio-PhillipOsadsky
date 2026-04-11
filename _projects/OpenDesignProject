@@ -1,0 +1,35 @@
+---
+layout: project
+title: Open Design Project
+description: Spotted lanternfly mitigation system for vineyards
+technologies: Mechanical Design, Prototyping, CAD, Testing
+image: /assets/images/Lanternfly.png
+---
+
+# Open Design Project
+
+This project focuses on designing and developing a system to reduce the impact of spotted lanternflies (SLFs) on grapevine production.
+
+---
+
+## Milestones
+
+<div style="display: grid; grid-template-columns: repeat(2, minmax(220px, 1fr)); gap: 1rem; margin-top: 1rem;">
+
+  <a href="{{ '/projects/ClientPitch/' | relative_url }}" style="padding: 1rem; border: 2px solid #d9d9d9; border-radius: 12px; text-decoration: none; background: #fafafa;">
+    <h3>Milestone 1: Client Pitch</h3>
+    <p>Problem definition, client need, and initial concept.</p>
+  </a>
+
+  <a href="{{ '/projects/FunctionalPrototype/' | relative_url }}" style="padding: 1rem; border: 2px solid #d9d9d9; border-radius: 12px; text-decoration: none; background: #fafafa;">
+    <h3>Milestone 2: Functional Prototype</h3>
+    <p>Prototype design, testing, and results.</p>
+  </a>
+
+</div>
+
+---
+
+## Overview
+
+This project progresses from an initial concept to a tested mechanical prototype. Each milestone builds on the previous work to refine the design and evaluate performance under realistic conditions.
