@@ -21,7 +21,7 @@ This project focuses on designing and developing a system to reduce the impact o
     <p>Problem definition, client need, and initial concept.</p>
   </a>
 
-  <a href="{{ '/projects/FunctionalPrototype/' | relative_url }}" style="padding: 1rem; border: 2px solid #d9d9d9; border-radius: 12px; text-decoration: none; background: #fafafa;">
+  <a href="{{ '/projects/open-design-project/functional-prototype/' | relative_url }}" style="padding: 1rem; border: 2px solid #d9d9d9; border-radius: 12px; text-decoration: none; background: #fafafa;">
     <h3>Milestone 2: Functional Prototype</h3>
     <p>Prototype design, testing, and results.</p>
   </a>
