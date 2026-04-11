@@ -4,6 +4,7 @@ title: Client Pitch
 description:
 technologies:
 image: /assets/images/Lanternfly.png
+permalink: /projects/open-design-project/client-pitch/
 show_in_projects: false
 ---
 
