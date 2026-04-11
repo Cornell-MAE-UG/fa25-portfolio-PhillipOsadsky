@@ -9,13 +9,13 @@ permalink: /projects/
     {% for project in site.projects %}
       {% unless project.show_in_projects == false %}
         {% include archive-single.html type="grid" %}
-       {% endunless %}
-      <div class="gallery-item">
-        <a href="{{ project.url | relative_url }}">
-          <img src="{{ project.image | relative_url }}" alt="{{ project.title }}" />
-          <p>{{ project.title}}</p>
-        </a>
-      </div>
+        <div class="gallery-item">
+          <a href="{{ project.url | relative_url }}">
+            <img src="{{ project.image | relative_url }}" alt="{{ project.title }}" />
+            <p>{{ project.title}}</p>
+          </a>
+        </div>
+      {% endunless %}
     {% endfor %}
 </div>
 </div>
