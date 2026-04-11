@@ -6,30 +6,30 @@ technologies: Mechanical Design, Prototyping, CAD, Testing
 image: /assets/images/Lanternfly.png
 ---
 
-# Open Design Project
+<h1>Open Design Project</h1>
 
-This project focuses on designing and developing a system to reduce the impact of spotted lanternflies (SLFs) on grapevine production.
+<p>This project focuses on going through the process of designing a mechanical system to reduce the impact of spotted lanternflies (SLFs) on grapevine production.</p>
 
----
+<hr>
 
-## Milestones
+<h2>Milestones</h2>
 
 <div style="display: grid; grid-template-columns: repeat(2, minmax(220px, 1fr)); gap: 1rem; margin-top: 1rem;">
 
-  <a href="{{ '/projects/open-design-project/client-pitch/' | relative_url }}" style="padding: 1rem; border: 2px solid #d9d9d9; border-radius: 12px; text-decoration: none; background: #fafafa;">
+  <a href="{{ '/projects/open-design-project/client-pitch/' | relative_url }}" style="padding: 1rem; border: 2px solid #d9d9d9; border-radius: 12px; text-decoration: none; background: #fafafa; color: inherit; display: block;">
     <h3>Milestone 1: Client Pitch</h3>
     <p>Problem definition, client need, and initial concept.</p>
   </a>
 
-  <a href="{{ '/projects/open-design-project/functional-prototype/' | relative_url }}" style="padding: 1rem; border: 2px solid #d9d9d9; border-radius: 12px; text-decoration: none; background: #fafafa;">
+  <a href="{{ '/projects/open-design-project/functional-prototype/' | relative_url }}" style="padding: 1rem; border: 2px solid #d9d9d9; border-radius: 12px; text-decoration: none; background: #fafafa; color: inherit; display: block;">
     <h3>Milestone 2: Functional Prototype</h3>
     <p>Prototype design, testing, and results.</p>
   </a>
 
 </div>
 
----
+<hr>
 
-## Overview
+<h2>Overview</h2>
 
-This project progresses from an initial concept to a tested mechanical prototype. Each milestone builds on the previous work to refine the design and evaluate performance under realistic conditions.
+<p>This project progresses from an initial concept to a tested mechanical prototype. Each of these milestones builds on the previous work to improve the design and evaluate performance under tests and other conditions.</p>
