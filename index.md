@@ -4,7 +4,7 @@ title: Phillip Osadsky
 ---
 
 # Phillip Osadsky  
-**Mechanical & Aerospace Engineering @ Cornell University**
+**Mechanical & Aerospace Engineering at Cornell University**
 
 ---
 
@@ -48,7 +48,7 @@ I am particularly interested in building systems that operate in real-world envi
 
 ---
 
-## 🏊 Additional Involvement
+## Additional Involvement
 
 - Cornell Swimming and Diving (Division I Varsity Athlete)  
 - Cornell Astronomical Society  
