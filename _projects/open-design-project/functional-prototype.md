@@ -106,7 +106,8 @@ table.clean-table th {
 
 *Note: While our initial client pitch focused on a scented spotted lanternfly (SLF) trap, our design evolved into a retractable barrier system after finding that physically preventing access to grapevines offered a solution that is more appropiate to the scope of this class.* 
 
-This project explores a **retractable protective enclosure for grapevines** designed to reduce spotted lanternfly access while still allowing growers to quickly open the system for harvesting and maintenance with any types of machines.
+This project explores a retractable protective enclosure for grapevines designed to reduce spotted lanternfly access while still allowing growers to quickly open the system for harvesting and maintenance with any types of machines.
+
 ---
 ## Design Evolution
 
@@ -256,28 +257,38 @@ Because several ordered parts did not arrive in time, some components were fabri
 
 ### Assembly Summary
 
+
+The frame was built from cut aluminum extrusions from McMaster Carr connected with L-brackets. A custom wheel assembly was designed and 3D printed to fit the lower rail. The scissor linkage mechanism was machined from wood strips, drilled at evenly spaced pivot locations, and mounted to the upper frame rail. One side of the linkage was coupled to the wheeled frame so that retraction and extension was able to be done in a synchronized motion.
+
 <img src="{{ '/assets/images/9-30-25AM.png' | relative_url }}" 
      style="width:100%; max-width:800px; display:block; margin:1rem auto; border-radius:12px;">
 
-The frame was built from cut aluminum extrusions from McMaster Carr connected with L-brackets. A custom wheel assembly was designed and 3D printed to fit the lower rail. The scissor linkage mechanism was machined from wood strips, drilled at evenly spaced pivot locations, and mounted to the upper frame rail. One side of the linkage was coupled to the wheeled frame so that retraction and extension was able to be done in a synchronized motion.
 ---
+
+## Concept Sketches
+
+<div style="display:grid; grid-template-columns: repeat(2, 1fr); gap:1.2rem; margin-top:1rem;">
+
+  <img src="{{ '/assets/images/9-29-03AM.png' | relative_url }}" style="width:100%; border-radius:12px;">
+  <img src="{{ '/assets/images/9-30-00AM.png' | relative_url }}" style="width:100%; border-radius:12px;">
+
+</div>
+
+<p style="text-align:center;">
+Early sketches exploring retractable mesh enclosure and scissor-link expansion concepts.
+</p>
+
+---
+
 ## Physical Prototype
 
-<div style="display:grid; grid-template-columns: repeat(3, 1fr); gap:1rem; margin-top:1rem;">
+<div style="display:grid; grid-template-columns: repeat(2, 1fr); gap:1.2rem; margin-top:1rem;">
 
-  <img src="{{ '/assets/images/9-28-25AM.png' | relative_url }}" 
-      style="width:100%; border-radius:12px;">
-  <img src="{{ '/assets/images/9-28-34AM.png' | relative_url }}" 
-      style="width:100%; border-radius:12px;">
-  <img src="{{ '/assets/images/9-28-48AM.png' | relative_url }}" 
-      style="width:100%; border-radius:12px;">
+  <img src="{{ '/assets/images/9-28-25AM.png' | relative_url }}" style="width:100%; border-radius:12px;">
+  <img src="{{ '/assets/images/9-28-34AM.png' | relative_url }}" style="width:100%; border-radius:12px;">
 
-  <img src="{{ '/assets/images/9-28-55AM.png' | relative_url }}" 
-      style="width:100%; border-radius:12px;">
-  <img src="{{ '/assets/images/9-29-03AM.png' | relative_url }}" 
-      style="width:100%; border-radius:12px;">
-  <img src="{{ '/assets/images/9-30-00AM.png' | relative_url }}" 
-      style="width:100%; border-radius:12px;">
+  <img src="{{ '/assets/images/9-28-48AM.png' | relative_url }}" style="width:100%; border-radius:12px;">
+  <img src="{{ '/assets/images/9-28-55AM.png' | relative_url }}" style="width:100%; border-radius:12px;">
 
 </div>
 
