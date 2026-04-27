@@ -130,16 +130,39 @@ These assumptions are reasonable given the low flow velocities, small elevation 
 
 ## Equations to analyze:
 
-<div class="equation-box">
+## Governing Equations
 
-* Mass Balance, since there is no mixing and steady operation
-  - m˙<sub>h,i​</sub>=m˙<sub>h,e</sub>​=m˙<sub>c,i</sub>​=m˙<sub>c,e</sub>​=m˙ 
+<div style="display:grid; gap:1rem; margin-top:1rem;">
 
-* Energy Balance With no work interaction and negligible KE/PE changes
-  - Q˙<sub>​lost</sub>​=m˙c<sub>p</sub>​((T<sub>c,e</sub>​−T<sub>c,i</sub>​)+(T<sub>h,e</sub>​−T<sub>h,i</sub>​))
+  <div style="background:#fafafa; border-left:4px solid #8b1e3f; padding:1rem 1.2rem; border-radius:10px;">
+    <strong>Mass Balance</strong><br>
+    <span style="font-size:1.05rem;">
+      m˙<sub>h,i</sub> = m˙<sub>h,e</sub> = m˙<sub>c,i</sub> = m˙<sub>c,e</sub> = m˙
+    </span>
+    <div style="font-size:0.9rem; color:#555; margin-top:0.3rem;">
+      Steady operation with no mixing
+    </div>
+  </div>
 
-* Entropy Balance
-  - S˙<sub>gen</sub>​=m˙(c<sub>p</sub>​ln(T<sub>c,e</sub>/​T<sub>c,i</sub>​​)+c<sub>p</sub>​ln(T<sub>h,e</sub>/​T<sub>h,i</sub>​​))−​Q˙<sub>​lost</sub>/​T<sub>amb</sub>​ ​ ​ 
+  <div style="background:#fafafa; border-left:4px solid #8b1e3f; padding:1rem 1.2rem; border-radius:10px;">
+    <strong>Energy Balance</strong><br>
+    <span style="font-size:1.05rem;">
+      Q˙<sub>lost</sub> = m˙c<sub>p</sub>((T<sub>c,e</sub> − T<sub>c,i</sub>) + (T<sub>h,e</sub> − T<sub>h,i</sub>))
+    </span>
+    <div style="font-size:0.9rem; color:#555; margin-top:0.3rem;">
+      No work interaction, negligible KE/PE changes
+    </div>
+  </div>
+
+  <div style="background:#fafafa; border-left:4px solid #8b1e3f; padding:1rem 1.2rem; border-radius:10px;">
+    <strong>Entropy Balance</strong><br>
+    <span style="font-size:1.05rem;">
+      S˙<sub>gen</sub> = m˙(c<sub>p</sub>ln(T<sub>c,e</sub>/T<sub>c,i</sub>) + c<sub>p</sub>ln(T<sub>h,e</sub>/T<sub>h,i</sub>)) − Q˙<sub>lost</sub>/T<sub>amb</sub>
+    </span>
+    <div style="font-size:0.9rem; color:#555; margin-top:0.3rem;">
+      Accounts for irreversibilities and heat loss
+    </div>
+  </div>
 
 </div>
 
