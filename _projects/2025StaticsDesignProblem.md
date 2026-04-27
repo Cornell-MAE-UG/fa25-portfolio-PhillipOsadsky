@@ -45,15 +45,17 @@ image: /assets/images/radio-machine-cad.jpg
 
 ## Project Overview
 
-<div style="display:flex; gap:1.5rem; flex-wrap:wrap; margin:1.5rem 0;">
+<div style="max-width:850px; margin:1.5rem auto 2rem auto;">
 
   <img src="{{ '/assets/images/Adobe Scan Oct 10, 2025.png' | relative_url }}"
        alt="Statics mechanism sketch"
-       style="width:48%; min-width:300px; border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.12);">
+       style="width:100%; display:block; border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.12); margin-bottom:1.5rem;">
 
   <img src="{{ '/assets/images/Deflection.png' | relative_url }}"
        alt="Beam deflection analysis"
-       style="width:48%; min-width:300px; border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.12);">
+       style="width:100%; display:block; border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.12);">
+
+</div>
 
 </div>
 
