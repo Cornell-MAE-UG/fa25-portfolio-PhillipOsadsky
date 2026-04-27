@@ -55,7 +55,7 @@ The SLF would be collected in a section that users can empty and replace.
 
 ---
 
-### How It Works
+### Mechanism
 
 1. Set up trap at vineyard hotspot  
 2. Deploy scent mechanism  
@@ -64,7 +64,7 @@ The SLF would be collected in a section that users can empty and replace.
 
 ---
 
-### Why It’s Better Than the Status Quo
+### Advantages
 
 - Less costly than pesticides  
 - Avoids repeated harvester tool changes  
@@ -82,7 +82,7 @@ By the semester's end, we aim to validate the functionality of our **auto scent 
 **Ecological Impact (Non-target species)**  
 Our device may attract and harm pollinators and beneficial predators.
 
-→ *Mitigation:*  
+*Mitigation:*  
 - Use scent minimizing pollinator attraction  
 - Conduct small-scale field testing  
 
@@ -91,7 +91,7 @@ Our device may attract and harm pollinators and beneficial predators.
 **Maintenance & Usability**  
 Devices require routine servicing across large vineyard areas.
 
-→ *Mitigation:*  
+*Mitigation:*  
 - Increase storage capacity  
 - Reduce maintenance frequency  
 
