@@ -107,6 +107,28 @@ table.clean-table th {
 *Note: While our initial client pitch focused on a scented spotted lanternfly (SLF) trap, our design evolved into a retractable barrier system after finding that physically preventing access to grapevines offered a solution that is more appropiate to the scope of this class.* 
 
 This project explores a **retractable protective enclosure for grapevines** designed to reduce spotted lanternfly access while still allowing growers to quickly open the system for harvesting and maintenance with any types of machines.
+---
+## Design Evolution
+
+<div style="display:grid; grid-template-columns: repeat(2, 1fr); gap:1rem; margin-top:1rem;">
+
+  <img src="/mnt/data/Screenshot 2026-04-27 at 9.28.48 AM.png"
+       style="width:100%; border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.12);">
+
+  <img src="/mnt/data/Screenshot 2026-04-27 at 9.28.55 AM.png"
+       style="width:100%; border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.12);">
+
+  <img src="/mnt/data/Screenshot 2026-04-27 at 9.29.03 AM.png"
+       style="width:100%; border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.12);">
+
+  <img src="/mnt/data/Screenshot 2026-04-27 at 9.30.25 AM.png"
+       style="width:100%; border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.12);">
+
+</div>
+
+<p style="text-align:center; margin-top:0.5rem;">
+Early concept sketches exploring retractable mesh enclosure and scissor-based expansion mechanisms.
+</p>
 
 ---
 
@@ -144,7 +166,19 @@ In the full concept, a mesh barrier would move with the mechanism to block SLFs 
      class="clean-img">
 
 <p><a class="jump-link" href="#tests">Jump to Tests ↓</a></p>
+<div style="display:grid; grid-template-columns: repeat(2, 1fr); gap:1rem; margin-top:1rem;">
 
+  <img src="/mnt/data/Screenshot 2026-04-27 at 9.29.31 AM.png"
+       style="width:100%; border-radius:12px;">
+
+  <img src="/mnt/data/Screenshot 2026-04-27 at 9.29.41 AM.png"
+       style="width:100%; border-radius:12px;">
+
+</div>
+
+<p style="text-align:center;">
+Detailed CAD model showing scissor linkage geometry and frame structure.
+</p>
 ---
 
 ### Design Overview
@@ -221,9 +255,31 @@ Because several ordered parts did not arrive in time, some components were fabri
 ---
 
 ### Assembly Summary
+##  Assembly Process Visualization
 
+<img src="/mnt/data/Screenshot 2026-04-27 at 9.30.25 AM.png"
+     style="width:100%; max-width:800px; display:block; margin:1rem auto; border-radius:12px;">
+     
 The frame was built from cut aluminum extrusions from McMaster Carr connected with L-brackets. A custom wheel assembly was designed and 3D printed to fit the lower rail. The scissor linkage mechanism was machined from wood strips, drilled at evenly spaced pivot locations, and mounted to the upper frame rail. One side of the linkage was coupled to the wheeled frame so that retraction and extension was able to be done in a synchronized motion.
+---
+## Physical Prototype
 
+<div style="display:grid; grid-template-columns: repeat(3, 1fr); gap:1rem; margin-top:1rem;">
+
+  <img src="/mnt/data/Screenshot 2026-04-27 at 9.28.25 AM.png" style="width:100%; border-radius:12px;">
+  <img src="/mnt/data/Screenshot 2026-04-27 at 9.28.34 AM.png" style="width:100%; border-radius:12px;">
+  <img src="/mnt/data/Screenshot 2026-04-27 at 9.28.48 AM.png" style="width:100%; border-radius:12px;">
+
+  <img src="/mnt/data/Screenshot 2026-04-27 at 9.28.55 AM.png" style="width:100%; border-radius:12px;">
+  <img src="/mnt/data/Screenshot 2026-04-27 at 9.29.03 AM.png" style="width:100%; border-radius:12px;">
+  <img src="/mnt/data/Screenshot 2026-04-27 at 9.30.00 AM.png" style="width:100%; border-radius:12px;">
+
+</div>
+
+<p style="text-align:center;">
+Early-stage physical prototype used to validate structure, motion, and assembly feasibility.
+</p>
+---
 <img src="{{ '/assets/images/FunctionalPrototypeAssembly.png' | relative_url }}"
      alt="Assembly photos showing construction of the functional prototype"
      class="clean-img">
@@ -283,9 +339,15 @@ The linkage stayed functional, but we began noticing some tilt began at a relati
 **Next iteration:**  
 Replace the wooden scissor members with a stiffer material once it comes with the Amazon order, and improve the support so the movable frame stays upright during extension.
 
-<img src="{{ '/assets/images/FunctionalPrototypeLoadTest.png' | relative_url }}"
-     alt="Photos of the structural load test on the scissor linkage"
-     class="clean-img">
+<div style="display:grid; grid-template-columns: repeat(2, 1fr); gap:1rem; margin-top:1rem;">
+
+  <img src="/mnt/data/Screenshot 2026-04-27 at 9.28.25 AM.png"
+       style="width:100%; border-radius:12px;">
+
+  <img src="/mnt/data/Screenshot 2026-04-27 at 9.28.34 AM.png"
+       style="width:100%; border-radius:12px;">
+
+</div>
 
 ---
 
