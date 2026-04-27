@@ -63,7 +63,7 @@ The SLF would be collected in a section that users can empty and replace.
        style="width:50%; border-radius:10px;">
   
   <div style="width:50%;">
-    <p><strong>Concept overview:</strong> Initial design exploring scent-based attraction and capture mechanisms (electric grid / suction).</p>
+    <p><strong>Concept overview:</strong> Initial design exploring scent-based attraction and capture mechanisms.</p>
     <p><strong>Key ideas:</strong></p>
     <ul>
       <li>Attraction zone (scent source)</li>
