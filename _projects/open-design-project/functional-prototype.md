@@ -112,16 +112,16 @@ This project explores a **retractable protective enclosure for grapevines** desi
 
 <div style="display:grid; grid-template-columns: repeat(2, 1fr); gap:1rem; margin-top:1rem;">
 
-  <img src="/mnt/data/9-28-48AM.png"
+  <img src="{{ '/assets/images/9-28-48AM.png' | relative_url }}"
        style="width:100%; border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.12);">
 
-  <img src="/mnt/data/9-28-55AM.png"
+  <img src="{{ '/assets/images/9-28-55AM.png' | relative_url }}"
        style="width:100%; border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.12);">
 
-  <img src="/mnt/data/9-29-03AM.png"
+  <img src="{{ '/assets/images/9-29-03AM.png' | relative_url }}"
        style="width:100%; border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.12);">
 
-  <img src="/mnt/data/9-30-25AM.png"
+  <img src="{{ '/assets/images/9-30-25AM.png' | relative_url }}"
        style="width:100%; border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.12);">
 
 </div>
@@ -168,10 +168,10 @@ In the full concept, a mesh barrier would move with the mechanism to block SLFs 
 <p><a class="jump-link" href="#tests">Jump to Tests ↓</a></p>
 <div style="display:grid; grid-template-columns: repeat(2, 1fr); gap:1rem; margin-top:1rem;">
 
-  <img src="/mnt/data/9-29-31AM.png"
+  <img src="{{ '/assets/images/9-29-31AM.png' | relative_url }}"
        style="width:100%; border-radius:12px;">
 
-  <img src="/mnt/data/9-29-41AM.png"
+  <img src="{{ '/assets/images/9-29-41AM.png' | relative_url }}"
        style="width:100%; border-radius:12px;">
 
 </div>
@@ -265,13 +265,19 @@ The frame was built from cut aluminum extrusions from McMaster Carr connected wi
 
 <div style="display:grid; grid-template-columns: repeat(3, 1fr); gap:1rem; margin-top:1rem;">
 
-  <img src="/mnt/data/9-28-25AM.png" style="width:100%; border-radius:12px;">
-  <img src="/mnt/data/9-28-34AM.png" style="width:100%; border-radius:12px;">
-  <img src="/mnt/data/9-28-48AM.png" style="width:100%; border-radius:12px;">
+  <img src="{{ '/assets/images/9-28-25AM.png' | relative_url }}" 
+      style="width:100%; border-radius:12px;">
+  <img src="{{ '/assets/images/9-28-34AM.png' | relative_url }}" 
+      style="width:100%; border-radius:12px;">
+  <img src="{{ '/assets/images/9-28-48AM.png' | relative_url }}" 
+      style="width:100%; border-radius:12px;">
 
-  <img src="/mnt/data/9-28-55AM.png" style="width:100%; border-radius:12px;">
-  <img src="/mnt/data/9-29-03AM.png" style="width:100%; border-radius:12px;">
-  <img src="/mnt/data/9-30-00AM.png" style="width:100%; border-radius:12px;">
+  <img src="{{ '/assets/images/9-28-55AM.png' | relative_url }}" 
+      style="width:100%; border-radius:12px;">
+  <img src="{{ '/assets/images/9-29-03AM.png' | relative_url }}" 
+      style="width:100%; border-radius:12px;">
+  <img src="{{ '/assets/images/9-30-00AM.png' | relative_url }}" 
+      style="width:100%; border-radius:12px;">
 
 </div>
 
@@ -340,10 +346,10 @@ Replace the wooden scissor members with a stiffer material once it comes with th
 
 <div style="display:grid; grid-template-columns: repeat(2, 1fr); gap:1rem; margin-top:1rem;">
 
-  <img src="/mnt/data/9-28-25AM.png"
+  <img src="{{ '/assets/images/9-28-25AM.png' | relative_url }}"
        style="width:100%; border-radius:12px;">
 
-  <img src="/mnt/data/9-28-34AM.png"
+  <img src="{{ '/assets/images/9-28-34AM.png' | relative_url }}"
        style="width:100%; border-radius:12px;">
 
 </div>
