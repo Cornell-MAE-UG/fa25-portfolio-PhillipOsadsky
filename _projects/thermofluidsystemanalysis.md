@@ -1,4 +1,3 @@
-order: 2
 ---
 layout: project
 title: Heat Exchanger Analysis for MAE 2210

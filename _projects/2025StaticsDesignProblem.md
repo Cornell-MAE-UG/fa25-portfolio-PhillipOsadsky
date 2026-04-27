@@ -1,4 +1,3 @@
-order: 3
 ---
 layout: project
 title: 2025 Statics Design Problem
