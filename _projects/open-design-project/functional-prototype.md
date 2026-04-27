@@ -256,7 +256,7 @@ Because several ordered parts did not arrive in time, some components were fabri
 
 ### Assembly Summary
 
-<img src="/mnt/data/9-30-25AM.png"
+<img src="{{ '/assets/images/9-30-25AM.png' | relative_url }}" 
      style="width:100%; max-width:800px; display:block; margin:1rem auto; border-radius:12px;">
 
 The frame was built from cut aluminum extrusions from McMaster Carr connected with L-brackets. A custom wheel assembly was designed and 3D printed to fit the lower rail. The scissor linkage mechanism was machined from wood strips, drilled at evenly spaced pivot locations, and mounted to the upper frame rail. One side of the linkage was coupled to the wheeled frame so that retraction and extension was able to be done in a synchronized motion.
