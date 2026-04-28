@@ -133,5 +133,3 @@ Devices require routine servicing across large vineyard areas.
      style="width:45%; border-radius:10px; margin-top:1rem;">
 
 ---
-
-## 📚 References
