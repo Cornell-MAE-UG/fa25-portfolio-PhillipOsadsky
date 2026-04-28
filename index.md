@@ -37,14 +37,14 @@ title: Phillip Osadsky
 ## Skills
 
 - Mechanical Design (CAD, prototyping)  
-- Systems Thinking & Problem Solving  
-- Testing & Iteration   
+- Machining (Lathe, Mill, Drill Press, Band Saw)  
+- Programming (MatLab, Java, Python)
 
 ---
 
 ## Engineering Focus
 
-I am particularly interested in building systems that operate in real-world environments, focusing on performance and reliability. I enjoy rapidly developing functional prototypes and refining them through testing and iteration along with analyzing systems, exhibited through various class projects.
+I am particularly interested in building systems that operate in a real enginering field, focusing on performance and desired outcome. I enjoy rapidly developing functional prototypes and refining them through testing and iteration along with analyzing systems, exhibited through various class projects.
 
 ---
 
