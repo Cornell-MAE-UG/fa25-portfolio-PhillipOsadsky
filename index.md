@@ -4,7 +4,7 @@ title: Phillip Osadsky
 ---
 
 # Phillip Osadsky  
-**Mechanical & Aerospace Engineering at Cornell University**
+**Mechanical Engineering at Cornell University**
 
 ---
 
