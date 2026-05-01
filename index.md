@@ -16,7 +16,7 @@ title: Phillip Osadsky
 
   <div style="max-width:500px;">
     <p>
-      Mechanical and Aerospace Engineering student focused on designing and building real-world systems.  
+      Mechanical Engineering student focused on designing and building real-world systems.  
       Experience in mechanical design, prototyping, and engineering problem-solving through hands-on projects.
     </p>
 

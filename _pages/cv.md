@@ -13,14 +13,14 @@ permalink: /cv/
 ---
 
 #### Objective
-I am excited to work in a fast paced and hands on environment, along with being able to apply my engineering and problem solving skills into a professional environment and gain experience, all while making significant contributions to the company.
+I am excited to work in a real hands on environment, along with being able to apply my engineering and problem solving skills into a professional environment and gain experience, all while making significant contributions to the company.
 
 
 ---
 
 #### Education
 - **Cornell University**  
-  *Bachelor of Science in Mechanical and Aerospace Engineering*  
+  *Bachelor of Science in Mechanical Engineering*  
   Graduation: May, 2028
 
 - **Ramstein High School**  
@@ -89,9 +89,5 @@ I am excited to work in a fast paced and hands on environment, along with being 
   - Learned how to set up and operate 10+ different telescopes ranging from small laser-based to the observatory.
   - Engaged in facilitating and setting up for weekly public observatory open hours by putting together telescopes.
   - Assisted in locating and locking specific celestial bodies on different kinds of telescopes for public viewing.
-
----
-#### References
-Available upon request.
 
 ---
