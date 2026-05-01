@@ -72,7 +72,7 @@ image: /assets/images/counterflow.png
 
 ## Overview
 
-For a class project, we selected a real world instance of a device that we have learned about in our Thermodynamics course (MAE 2210), explained how it works in detail, and then discussed how its performance would change under change in design or operating conditions. The device that my partner and I chose to analyze was the heat exchanger.
+For a project, we selected a real world instance of a device that we have learned about in our Thermodynamics course (MAE 2210), explained how it works in detail, and then discussed how its performance would change under change in design or operating conditions. The device that my partner and I chose to analyze was the heat exchanger.
 
 Heat exchangers are widely used in engineering systems to transfer thermal energy between fluids without mixing. A couple examples include radiators, power plants, and one of my personal favorites, spacecraft thermal control. Understanding how the process behind a heat exchanger performance is influenced by its design and the way it operates is very important for designing systems in the class. 
 

@@ -31,7 +31,7 @@ I am excited to work in a real hands on environment, along with being able to ap
 ---
 
 #### Skills
-- **Technical:** Matlab, Python, Fusion 360 CAD, Java, Red Apron Certification
+- **Technical:** Matlab, Python, Fusion 360 CAD, Java, Machine Shop Certified
 - **Machines:** Laser Cutter, 3D Printer, CNC, Lathe, Mill, Drill Press, Band Saw
 - **Languages:** Slovak (Native), German (Advanced), Czech (Advanced)
 - **Interests:** Competitive chess, Mountaineering, Piano, Hockey, Clash of Clans, Pokemon
