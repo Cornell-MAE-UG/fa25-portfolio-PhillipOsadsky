@@ -3,6 +3,7 @@ layout: project
 title: Heat Exchanger Analysis for MAE 2210
 description: Class Lab
 image: /assets/images/counterflow.png
+order: 2
 ---
 
 <style>
