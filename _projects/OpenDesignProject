@@ -27,6 +27,11 @@ order: 1
     <p>Prototype design, testing, and results.</p>
   </a>
 
+  <a href="{{ '/projects/open-design-project/client-report/' | relative_url }}" style="padding: 1rem; border: 2px solid #d9d9d9; border-radius: 12px; text-decoration: none; background: #fafafa; color: inherit; display: block;">
+    <h3>Milestone 3: Client Report</h3>
+    <p>Final report, recommendation, testing summary, and bill of materials.</p>
+  </a>
+
 </div>
 
 <hr>
