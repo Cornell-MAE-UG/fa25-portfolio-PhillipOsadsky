@@ -8,7 +8,13 @@ layout: default
 
 {{ content }}
 
-<p><strong>Technologies Used</strong>: {{ page.technologies | join: ", " }}</p>
+{% assign techs = page.technologies | default: "" | strip %}
+
+{% if techs != "" %}
+<hr>
+<h2>Technologies Used:</h2>
+<p>{{ techs }}</p>
+{% endif %}
 
 <a href={{ "/projects/" | relative_url }} class="back-arrow">
     <i class="bi bi-arrow-left-circle-fill"></i> Back to Projects
