@@ -60,7 +60,7 @@ I am excited to work in a real hands on environment, along with being able to ap
 
 ---
 
-#### LEADERSHIP  EXPERIENCE
+#### Leadership Experience
 - **Leaders 2 Leaders Program**  
    September 2025 - Present 
   - Selected by Cornell coaching staff for Team Captain Development Program out of 30+ student athletes and completed leadership and organizational workshops led by Cornell sports psychologists.
@@ -71,7 +71,7 @@ I am excited to work in a real hands on environment, along with being able to ap
 
 ---
 
-#### ATHLETICS
+#### Athletics
 - **Division 1 Cornell Varsity Swim and Dive**  
    August 2024 - Present 
   - Devote 20+ hours/week to training and competitions while balancing full-time academics & club commitments.
@@ -83,7 +83,7 @@ I am excited to work in a real hands on environment, along with being able to ap
   - Represented Slovakia at the World University Games in Germany 2025 along with World Junior Championships in Israel 2023, contributed to placing top 15 as a country.	
 
 ---
-#### CAMPUS INVOLVEMENT
+#### Campus Involvement
 - **Cornell Astronomical Society**  
    August 2024 - Present
   - Learned how to set up and operate 10+ different telescopes ranging from small laser-based to the observatory.
