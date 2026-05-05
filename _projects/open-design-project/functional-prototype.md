@@ -500,5 +500,5 @@ These results give a clear direction for the next prototype:
 ---
 
 ### Related Work
-- <a href="{{ '/projects/ClientPitch/' | relative_url }}">View the Client Pitch milestone</a>
+- <a href="{{ '/projects/open-design-project/client-pitch/' | relative_url }}">View the Client Pitch milestone</a>
 - <a href="{{ '/projects/' | relative_url }}">Back to Projects</a>
