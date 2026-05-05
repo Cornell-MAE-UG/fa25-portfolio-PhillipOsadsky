@@ -104,7 +104,7 @@ table.clean-table th {
 **Team Bug-anators**  
 **Client(s):** Cornell CALS Extension / E&J Gallo Winery / National Grape
 
-*Note: While our initial client pitch focused on a scented spotted lanternfly (SLF) trap, our design evolved into a retractable barrier system after finding that physically preventing access to grapevines offered a solution that is more appropiate to the scope of this class.* 
+*Note: While our initial client pitch focused on a scented spotted lanternfly (SLF) trap, our design evolved into a retractable barrier system after finding that physically preventing access to grapevines offered a solution that is more appropriate to the scope of this class.* 
 
 This project explores a retractable protective enclosure for grapevines designed to reduce spotted lanternfly access while still allowing growers to quickly open the system for harvesting and maintenance with any types of machines.
 
