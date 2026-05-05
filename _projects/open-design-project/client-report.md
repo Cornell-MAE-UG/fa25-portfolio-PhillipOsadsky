@@ -8,6 +8,54 @@ permalink: /projects/open-design-project/client-report/
 show_in_projects: false
 ---
 
+<style>
+.report-img {
+  width: 100%;
+  max-width: 760px;
+  display: block;
+  margin: 1rem auto 1.5rem auto;
+  border-radius: 10px;
+  box-shadow: 0 3px 12px rgba(0,0,0,0.12);
+}
+
+.figure-caption {
+  text-align: center;
+  font-size: 0.9rem;
+  margin-top: -0.8rem;
+  margin-bottom: 1.5rem;
+  color: #555;
+}
+
+.bom-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1rem 0 1.5rem 0;
+  font-size: 0.92rem;
+}
+
+.bom-table th,
+.bom-table td {
+  border: 1px solid #d0d0d0;
+  padding: 0.65rem;
+  vertical-align: top;
+  text-align: left;
+}
+
+.bom-table th {
+  background: #f2f2f2;
+  font-weight: 700;
+}
+
+.bom-table tr:nth-child(even) {
+  background: #fafafa;
+}
+
+.total-row {
+  font-weight: 700;
+  background: #f5f5f5;
+}
+</style>
+
 <h1>Client Report</h1>
 
 <p><strong>MAE 2250 – Introduction to Mechanical Design Spring 2026</strong></p>
@@ -37,6 +85,12 @@ Albert Zheng, Gary Chau, Lisa Iizuka, Phillip Osadsky, & Yolanda Zhou</p>
 <h2>Final Prototype and Application</h2>
 
 <p><strong>Prototype Overview:</strong> A retractable vineyard enclosure that expands to protect grapevines from SLF and contracts to allow harvesting operations.</p>
+
+<img src="{{ '/assets/images/CAD1.png' | relative_url }}" alt="CAD model of retractable vineyard enclosure expanded" class="report-img">
+<p class="figure-caption">Figure 1. CAD model of the retractable vineyard enclosure in an expanded configuration.</p>
+
+<img src="{{ '/assets/images/CAD2.png' | relative_url }}" alt="CAD model of retractable vineyard enclosure retracted" class="report-img">
+<p class="figure-caption">Figure 2. CAD model of the retractable vineyard enclosure in a retracted configuration.</p>
 
 <p><strong>How it Works:</strong></p>
 <ul>
@@ -93,6 +147,9 @@ Albert Zheng, Gary Chau, Lisa Iizuka, Phillip Osadsky, & Yolanda Zhou</p>
 
 <p><strong>Method:</strong> Added calibrated weights to the center of the linkage and measured the tilt angle</p>
 
+<img src="{{ '/assets/images/Tilt.png' | relative_url }}" alt="Tilt angle vs applied weights graph" class="report-img">
+<p class="figure-caption">Figure 3. Tilt angle as applied weight increases.</p>
+
 <p><strong>Results:</strong></p>
 <ul>
   <li>Tilt angle increased with increasing load initially</li>
@@ -114,6 +171,9 @@ Albert Zheng, Gary Chau, Lisa Iizuka, Phillip Osadsky, & Yolanda Zhou</p>
 
 <p><strong>Method:</strong> The prototype was run through 10 full expansion–contraction cycles. During each cycle, the number of jams (instances where motion was obstructed or stopped) was recorded.</p>
 
+<img src="{{ '/assets/images/Jams.png' | relative_url }}" alt="Number of jams per cycle graph" class="report-img">
+<p class="figure-caption">Figure 4. Number of jams observed during repeated expansion-contraction cycles.</p>
+
 <p><strong>Results:</strong></p>
 <ul>
   <li>Early cycles showed smooth motion with little to no jamming</li>
@@ -133,6 +193,9 @@ Albert Zheng, Gary Chau, Lisa Iizuka, Phillip Osadsky, & Yolanda Zhou</p>
 <p><strong>Purpose:</strong> Assess the durability of fasteners under repeated expansion–contraction cycles.</p>
 
 <p><strong>Method:</strong> After performing 10 full expansion–contraction cycles, all bolts and fasteners in the prototype were inspected. The number of loosened fasteners was recorded after each cycle.</p>
+
+<img src="{{ '/assets/images/Fasteners.png' | relative_url }}" alt="Number of loose fasteners vs cycle graph" class="report-img">
+<p class="figure-caption">Figure 5. Number of loose fasteners after repeated expansion-contraction cycles.</p>
 
 <p><strong>Results:</strong></p>
 <ul>
@@ -176,7 +239,7 @@ Albert Zheng, Gary Chau, Lisa Iizuka, Phillip Osadsky, & Yolanda Zhou</p>
 
 <h2>Bill Of Materials</h2>
 
-<table>
+<table class="bom-table">
   <thead>
     <tr>
       <th>Name</th>
@@ -236,10 +299,12 @@ Albert Zheng, Gary Chau, Lisa Iizuka, Phillip Osadsky, & Yolanda Zhou</p>
       <td>$18</td>
       <td>These L brackets are for securing our frames together. These brackets could be found on McMaster, but McMaster charges $8 for each bracket, which is ludicrously overpriced and would put us over budget.</td>
     </tr>
+    <tr class="total-row">
+      <td colspan="3">Total Cost</td>
+      <td colspan="2">$233</td>
+    </tr>
   </tbody>
 </table>
-
-<p><strong>Total Cost: $233</strong></p>
 
 <hr>
 
