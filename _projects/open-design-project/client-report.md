@@ -61,7 +61,6 @@ show_in_projects: false
 <p><strong>MAE 2250 – Introduction to Mechanical Design Spring 2026</strong></p>
 
 <p><strong>Bug-anators</strong><br>
-Albert Zheng, Gary Chau, Lisa Iizuka, Phillip Osadsky, & Yolanda Zhou</p>
 
 <hr>
 
